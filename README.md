@@ -14,6 +14,8 @@ CSV file of terrestrial arthropod functional feeding guilds.  These functions we
 
 CSV file of fungal traits for rhizomorph-forming, ericoid, and fire-associated fungi.  Column names were chosen to be compatible with the FungalTraits database.  If you use this file please cite the original sources largely from Boddy (1993) for saprotrophic rhizomorph-forming fungi,  Agerer (2006) for ectomycorrhizal rhizomorph-forming fungi, as well as Zak and Wicklow (1980) and Dix and Webster (1995) for fire-loving fungi.
 
+CSV file of FAPROTAX bacterial traits supplemented with additional N fixation, K and P solubilization traits by Sansupa et al. (2021) and further supplemented with additional taxa with chitinolytic capabilities.  Formatted for use with FAPROTAX.
+
 ## Infiles
 
 
