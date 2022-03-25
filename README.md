@@ -21,31 +21,31 @@ CSV file of fungal traits for rhizomorph-forming, ericoid, and fire-associated f
 ## R Scripts
 
 
-Fig 1 Post0fire recovery of bacteria, fungi, and arthropod communities.
-Fig 2 The relative read abundance of top taxa fluctuates along the 80-year fire recovery chronosequence.
-Fig 3 Development stage bioindicators in fire-origin sites.
-Fig 4 Convergence between natural wildfire and harvest disturbance varies by taxonomic group.
-Fig 5 Recovery patterns following full-tree clearcut harvest and salvage disturbance varies with organismal group in soil.
-Fig 6 Sampling locations in northern Ontario, Canada.
+Fig 1 Post0fire recovery of bacteria, fungi, and arthropod communities.  
+Fig 2 The relative read abundance of top taxa fluctuates along the 80-year fire recovery chronosequence.  
+Fig 3 Development stage bioindicators in fire-origin sites.  
+Fig 4 Convergence between natural wildfire and harvest disturbance varies by taxonomic group.  
+Fig 5 Recovery patterns following full-tree clearcut harvest and salvage disturbance varies with organismal group in soil.  
+Fig 6 Sampling locations in northern Ontario, Canada.  
 
-Fig S1 High level overview of major taxa detected in fire-origin sites at each stand development stage.
-Fig S2 In wildfire sites, ESVs cluster by development stage.
-Fig S3 Summary of soil and climate characteristics for harvest sites with respect to the reference condition.
-Fig S4 Fire-origin soil communities are largely distinct from one stand development stage to the next.
-Fig S5 Relative read abundance reveals differences among major taxa and functional groups across development stages.
-Fig S6 Samples are structured primarily by soil layer.
-Fig S7 Key gradients of variation within and among stand development stages in fire-origin sites.
-Fig S8 The diversity and frequency of fire-assocaited fungal species is highest from fire-origin sites at the establishment stage.
-Fig S9 Frequency of insect genera that may be associated with fire-origin sites.
-Fig S10 High level overview of taxa from wildfire-, full tree clearcut harvest- and salvage harvest sites.
-Fig S11 Convergence of soil communities over time varies by taxon.
-Fig S12 Samples subjected to harvest-disturbance may need more than 60 years to fully 'recovery'.
-Fig S13 Dominant groups of understory vegetation differed in wildfire and harvest-origin sites.
-Fig S14 Rarefaction curves plateau indicating sequencing depth was sufficient for each amplicon.
-Fig S15 Fungal and arthropod communities show differences in richness according to soil layer, disturbance, and development stage.
-Fig S16 Strongly correlated understory vegetation are shown for fire-origin sites.
-Fig S17 Strongly correlated climate and soil characteristics.
-Fig S18 Strongly crrelated organismal metrics.
+Fig S1 High level overview of major taxa detected in fire-origin sites at each stand development stage.  
+Fig S2 In wildfire sites, ESVs cluster by development stage.  
+Fig S3 Summary of soil and climate characteristics for harvest sites with respect to the reference condition.  
+Fig S4 Fire-origin soil communities are largely distinct from one stand development stage to the next.  
+Fig S5 Relative read abundance reveals differences among major taxa and functional groups across development stages.  
+Fig S6 Samples are structured primarily by soil layer.  
+Fig S7 Key gradients of variation within and among stand development stages in fire-origin sites.  
+Fig S8 The diversity and frequency of fire-assocaited fungal species is highest from fire-origin sites at the establishment stage.  
+Fig S9 Frequency of insect genera that may be associated with fire-origin sites.  
+Fig S10 High level overview of taxa from wildfire-, full tree clearcut harvest- and salvage harvest sites.  
+Fig S11 Convergence of soil communities over time varies by taxon.  
+Fig S12 Samples subjected to harvest-disturbance may need more than 60 years to fully 'recovery'.  
+Fig S13 Dominant groups of understory vegetation differed in wildfire and harvest-origin sites.  
+Fig S14 Rarefaction curves plateau indicating sequencing depth was sufficient for each amplicon.  
+Fig S15 Fungal and arthropod communities show differences in richness according to soil layer, disturbance, and development stage.  
+Fig S16 Strongly correlated understory vegetation are shown for fire-origin sites.  
+Fig S17 Strongly correlated climate and soil characteristics.  
+Fig S18 Strongly crrelated organismal metrics.  
 
 ## References
 
