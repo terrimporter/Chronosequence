@@ -4,7 +4,7 @@ This repository contains supplementary digital resources, scripts, and files use
 
 ## Digital Resources
 
-We used some key references from the literature to produce list of fire-associated organisms and traits that can be easily imported into R for analysis.
+We used some key references from the literature to produce lists of fire-associated organisms and traits that can be easily imported into R for analysis.
 
 Comma-separated file (CSV) file of fire-associated arthropods that can be used to screen datasets for pyrophilous arthropods.  If you use this file please site the original sources published largely by Wikars (1997) that are listed in the file.  
 
@@ -56,6 +56,8 @@ Agerer, R. (2006). Fungal relationships and structural identity of their ectomyc
 Boddy, L. (1993). Saprotrophic cord-forming fungi: Warfare strategies and other ecological aspects. Mycological Research, 97(6), 641–655. doi: 10.1016/S0953-7562(09)80141-X
 
 Dix, N. J., & Webster, J. (1995). Phoenicoid Fungi. In Fungal Ecology. Dordrecht: Springer. Retrieved from https://doi.org/10.1007/978-94-011-0693-1_11
+
+Sansupa, C., Wahdan, S. F. M., Hossen, S., Disayathanoowat, T., Wubet, T., & Purahong, W. (2021). Can We Use Functional Annotation of Prokaryotic Taxa (FAPROTAX) to Assign the Ecological Functions of Soil Bacteria? Applied Sciences, 11(2), 688. doi: 10.3390/app11020688
 
 Wikars, L.-O. (1997). Effects of forest fire and the ecology of fire-adapted insects (Dissertation for the Degree of Doctor of Philosophy in Entomology). Uppsala University, Uppsala.
 
