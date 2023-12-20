@@ -4,9 +4,11 @@ This repository contains supplementary digital resources, scripts, and files use
 
 ## Digital Resources
 
+We used some key references from the literature to produce lists of fire-associated organisms and ecological traits that can be easily imported into R for analysis.  
+
 ### Pyrophilous Taxa
 
-We used some key references from the literature to produce lists of fire-associated organisms and traits that can be easily imported into R for analysis.  See /PyrophilousTaxa/README.docx for further details.
+See /PyrophilousTaxa/README.docx for further details.
 
 Fire-associated bacteria (/PyrophilousTaxa/FireAssociatedBacteria_2022-03-28.xlsx, xxx).
 
