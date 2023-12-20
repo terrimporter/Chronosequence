@@ -6,15 +6,15 @@ This repository contains supplementary digital resources, scripts, and files use
 
 We used some key references from the literature to produce lists of fire-associated organisms and traits that can be easily imported into R for analysis.
 
-Comma-separated file (CSV) file of fire-associated arthropods that can be used to screen datasets for pyrophilous arthropods.  If you use this file please site the original sources published largely by Wikars (1997) that are listed in the file.  
+Comma-separated file (CSV) file of fire-associated arthropods that can be used to screen datasets for pyrophilous arthropods (/infiles/FireInsects.csv).  If you use this file please site the original sources published largely by Wikars (1997) that are listed in the file.  
 
-CSV file of fire-loving fungi.  If you use this file please site the original sources published largely by Zak and Wicklow (1980) as well as Dix and Webster (1995). 
+CSV file of fire-loving fungi (/infiles/Firefungi.csv).  If you use this file please site the original sources published largely by Zak and Wicklow (1980) as well as Dix and Webster (1995). 
 
-CSV file of terrestrial arthropod functional feeding guilds.  These functions were assigned based on the literature with effort made to use the same terminology used by the US EPA for functional feeding guilds in freshwater macroinvertebrates where possible to facilitate comparisons across these diverse taxa.
+CSV file of terrestrial arthropod functional feeding guilds (/infiles/EPA.csv, /infiles/Moog.csv, /infiles/Tachet.csv).  These functions were assigned based on the literature with effort made to use the same terminology used by the US EPA for functional feeding guilds in freshwater macroinvertebrates where possible to facilitate comparisons across these diverse taxa.
 
-CSV file of fungal traits for rhizomorph-forming, ericoid, and fire-associated fungi.  Column names were chosen to be compatible with the FungalTraits database.  If you use this file please cite the original sources largely from Boddy (1993) for saprotrophic rhizomorph-forming fungi,  Agerer (2006) for ectomycorrhizal rhizomorph-forming fungi, as well as Zak and Wicklow (1980) and Dix and Webster (1995) for fire-loving fungi.
+CSV file of fungal traits for rhizomorph-forming, ericoid, and fire-associated fungi.  Column names were chosen to be compatible with the FungalTraits database (/infiles/FungalTraits_RhizomorphEricoidFireAnnotations.csv).  If you use this file please cite the original sources largely from Boddy (1993) for saprotrophic rhizomorph-forming fungi,  Agerer (2006) for ectomycorrhizal rhizomorph-forming fungi, as well as Zak and Wicklow (1980) and Dix and Webster (1995) for fire-loving fungi.
 
-CSV file of FAPROTAX bacterial traits supplemented with additional N fixation, K and P solubilization traits by Sansupa et al. (2021) and further supplemented with additional taxa with chitinolytic capabilities.  Formatted for use with FAPROTAX.
+CSV file of FAPROTAX bacterial traits supplemented with additional N fixation, K and P solubilization traits by Sansupa et al. (2021) and further supplemented with additional taxa with chitinolytic capabilities (/infiles/).  Formatted for use with FAPROTAX.
 
 ## Infiles
 
@@ -36,6 +36,8 @@ Fig S4 The diversity and frequency of fire-associated fungal species is highest 
 Fig S5 Frequency of bacterial genera that may be associated with fire-origin sites.  
 Fig S6 Frequency of insect genera that may be associated with fire-origin sites.  
 Fig S7 Rarefaction curves plateau indicating sequencing depth was sufficient for each amplicon.  
+
+Table S2 Stand development stage bioindicators from fire-origin sites.
 
 
 ## References
