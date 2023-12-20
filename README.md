@@ -28,7 +28,23 @@ CSV file of terrestrial arthropod functional feeding guilds (/infiles/EPA.csv, /
 
 ## Infiles
 
-
+16S_results.csv
+16S_trainset18_db_taxid.txt
+BE_results.csv
+CO1_v4.0.1_mytaxon.txt
+EPA.csv
+F230_results.csv
+FireBacteria.csv
+FireFungi.csv
+FireInsects.csv
+func_table_ammended_Puri.tsv
+FungalTraits_RhizomorphEricoidFireAnnotations.csv
+ITS_results.csv
+metadata.csv
+Moog.csv
+Tachet.csv
+UNITEv8.2_v2_mytaxon.txt
+veg.csv
 
 ## R Scripts
 
@@ -43,6 +59,8 @@ Fig 3 Contrasting recovery patterns of soil taxa along an 85-year chronosequence
 Fig 4 Each stand development stage is important for maintaining gamma diversity and whole community nestedness.  Use /scripts/Fig4_Simulation.R with /outfiles/tax_meta.csv to create /outfiles/Simulation.csv and /outfiles/Fig4_Simulation.pdf .
 
 Fig 5 Major groups vary across the post-fire chronosequence.  Use /scripts/Fig5_composition.R with /outfiles/tax_meta.csv and /infiles/func_table_ammended_Puri.tsv , /infiles/FungalTraits_RhizomorphEricoidFireAnnotations.csv , /infiles/EPA.csv, /infiles/Moog.csv , and /infiles/Tachet.csv to create /outfiles/Fig5_composition.pdf .
+
+Table 1 Overview of site characteristics.  Use /scripts/Table1_devstage_years.R with /outfiles/tax_meta.csv with /infiles/veg.csv and /infiles/metadata.csv .
 
 Fig S1 Fire-origin soil communities are largely distinct from one stand development stage to the next.  See above for Fig 3.
 
@@ -60,7 +78,6 @@ Fig S7 Rarefaction curves plateau indicating sequencing depth was sufficient for
 
 Table S2 Stand development stage bioindicators from fire-origin sites.  Use /scripts/Q3_IndicVal_2022-03-28.R with /outfiles/tax_meta.csv to create /outfiles/TableS2_devstage_bioindicatorTaxa_fire.csv .
 
-
 ## References
 
 Agerer, R. (2006). Fungal relationships and structural identity of their ectomycorrhizae. Mycological Progress, 5(2), 67–107. doi: 10.1007/s11557-006-0505-x
@@ -75,9 +92,8 @@ Wikars, L.-O. (1997). Effects of forest fire and the ecology of fire-adapted ins
 
 Zak, J. C., & Wicklow, D. T. (1980). Structure and composition of a post-fire ascomycete community: Role of abiotic and biotic factors. Canadian Journal of Botany, 58(17), 1915–1922. doi: 10.1139/b80-222
 
-
 ## Acknowledgements
 
 I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: March 25, 2022
+Last updated: December 20, 2023
