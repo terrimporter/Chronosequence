@@ -10,7 +10,7 @@ We used some key references from the literature to produce lists of fire-associa
 
 See /PyrophilousTaxa/README.docx for further details.
 
-Fire-associated bacteria (/PyrophilousTaxa/FireAssociatedBacteria_2022-03-28.xlsx, xxx).
+Fire-associated bacteria (/PyrophilousTaxa/FireAssociatedBacteria_2022-03-28.xlsx, /infiles/FireBacteria.csv).
 
 Fire-loving fungi (/PyrophilousTaxa/FireLovingFungi_2022-04-28.xlsx, /infiles/Firefungi.csv).  If you use this file please site the original sources published largely by Zak and Wicklow (1980) as well as Dix and Webster (1995). 
 
