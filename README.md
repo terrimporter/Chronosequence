@@ -4,17 +4,29 @@ This repository contains supplementary digital resources, scripts, and files use
 
 ## Digital Resources
 
-We used some key references from the literature to produce lists of fire-associated organisms and traits that can be easily imported into R for analysis.
+### Pyrophilous Taxa
 
-Comma-separated file (CSV) file of fire-associated arthropods that can be used to screen datasets for pyrophilous arthropods (/infiles/FireInsects.csv).  If you use this file please site the original sources published largely by Wikars (1997) that are listed in the file.  
+We used some key references from the literature to produce lists of fire-associated organisms and traits that can be easily imported into R for analysis.  See /PyrophilousTaxa/README.docx for further details.
 
-CSV file of fire-loving fungi (/infiles/Firefungi.csv).  If you use this file please site the original sources published largely by Zak and Wicklow (1980) as well as Dix and Webster (1995). 
+Fire-associated bacteria (/PyrophilousTaxa/FireAssociatedBacteria_2022-03-28.xlsx, xxx).
 
-CSV file of terrestrial arthropod functional feeding guilds (/infiles/EPA.csv, /infiles/Moog.csv, /infiles/Tachet.csv).  These functions were assigned based on the literature with effort made to use the same terminology used by the US EPA for functional feeding guilds in freshwater macroinvertebrates where possible to facilitate comparisons across these diverse taxa.
+Fire-loving fungi (/PyrophilousTaxa/FireLovingFungi_2022-04-28.xlsx, /infiles/Firefungi.csv).  If you use this file please site the original sources published largely by Zak and Wicklow (1980) as well as Dix and Webster (1995). 
+
+Fire-associated arthropods that can be used to screen datasets for pyrophilous arthropods (/PyrophilousTaxa/FireAssociatedArthropods_2022-03-18.xlsx, /infiles/FireInsects.csv).  If you use this file please site the original sources published largely by Wikars (1997) that are listed in the file.  
+
+### Ecological Function Annotations
+
+See /EcologicalFunctionAnnotation/README.docx for further details.
+
+CSV file of FAPROTAX bacterial traits supplemented with additional N fixation, K and P solubilization traits by Sansupa et al. (2021) and further supplemented with additional taxa with chitinolytic capabilities (/EcologicalFunctionAnnotations/FAPROTAX_Sansupa_Puri.txt, /infiles/FAPROTAX_Sansupa_Puri.txt).  Formatted for use with FAPROTAX.
 
 CSV file of fungal traits for rhizomorph-forming, ericoid, and fire-associated fungi.  Column names were chosen to be compatible with the FungalTraits database (/infiles/FungalTraits_RhizomorphEricoidFireAnnotations.csv).  If you use this file please cite the original sources largely from Boddy (1993) for saprotrophic rhizomorph-forming fungi,  Agerer (2006) for ectomycorrhizal rhizomorph-forming fungi, as well as Zak and Wicklow (1980) and Dix and Webster (1995) for fire-loving fungi.
 
-CSV file of FAPROTAX bacterial traits supplemented with additional N fixation, K and P solubilization traits by Sansupa et al. (2021) and further supplemented with additional taxa with chitinolytic capabilities (/infiles/).  Formatted for use with FAPROTAX.
+CSV file of terrestrial arthropod functional feeding guilds (/infiles/EPA.csv, /infiles/Moog.csv, /infiles/Tachet.csv).  These functions were assigned based on the literature with effort made to use the same terminology used by the US EPA for functional feeding guilds in freshwater macroinvertebrates where possible to facilitate comparisons across these diverse taxa.
+
+
+
+
 
 ## Infiles
 
