@@ -26,28 +26,34 @@ CSV file of fungal traits for rhizomorph-forming, ericoid, and fire-associated f
 
 CSV file of terrestrial arthropod functional feeding guilds (/infiles/EPA.csv, /infiles/Moog.csv, /infiles/Tachet.csv).  These functions were assigned based on the literature with effort made to use the same terminology used by the US EPA for functional feeding guilds in freshwater macroinvertebrates where possible to facilitate comparisons across these diverse taxa.
 
-
-
-
-
 ## Infiles
 
 
 
 ## R Scripts
 
+Use /scripts/tax_summary.R with outfiles from MetaWorks for each marker (/infiles/BE_results.csv, /infiles/F230_results.csv, /infiles/ITS_results.csv, 16S_results.csv) along with /infiles/metadata.csv to create /outfiles/tax_meta.csv used in future analyses.  
 
-Fig 1 Experimental design.  
-Fig 2 Contrasting patterns of diversity seen for soil bacteria, fungi, and arthropods.  
-Fig 3 Contrasting recovery patterns of soil taxa along an 85-year chronosequence following natural wildfire disturbance.  
-Fig 4 Each stand development stage is important for maintaining gamma diversity and whole community nestedness.  
-Fig 5 Major groups vary across the post-fire chronosequence.  
+Fig 1 Experimental design.  Use /scripts/Fig1_map_wildfire.R with /infiles/metadata.csv to create /outfiles/Fig1_map.df .
 
-Fig S1 Fire-origin soil communities are largely distinct from one stand development stage to the next.  
-Fig S2 Fungal nestedness and specialization across stand development stages.  
-Fig S3 Nestedness patterns vary across major fungal functional and taxonomic groups.  
-Fig S4 The diversity and frequency of fire-associated fungal species is highest from fire-origin sites at the establishment stage.  
-Fig S5 Frequency of bacterial genera that may be associated with fire-origin sites.  
+Fig 2 Contrasting patterns of diversity seen for soil bacteria, fungi, and arthropods.  Use /scripts/Fig2_Biodiversity.R with /outfiles/tax_meta.csv to create /outfiles/Fig2_biodiversity.pdf .
+
+Fig 3 Contrasting recovery patterns of soil taxa along an 85-year chronosequence following natural wildfire disturbance.  Use /scripts/Fig3_FigS1_beta_NODF.R with /outfiles/tax_meta.csv and /infiles/metadata.csv to create /outfiles/NODF.csv,  /outfiles/Fig3_NODF.pdf and /outfiles/FigS1.pdf .
+
+Fig 4 Each stand development stage is important for maintaining gamma diversity and whole community nestedness.  Use /scripts/Fig4_Simulation.R with /outfiles/tax_meta.csv to create /outfiles/Simulation.csv and /outfiles/Fig4_Simulation.pdf .
+
+Fig 5 Major groups vary across the post-fire chronosequence.  Use /scripts/Fig5_composition.R with /outfiles/tax_meta.csv and /infiles/func_table_ammended_Puri.tsv , /infiles/FungalTraits_RhizomorphEricoidFireAnnotations.csv , /infiles/EPA.csv, /infiles/Moog.csv , and /infiles/Tachet.csv to create /outfiles/Fig5_composition.pdf .
+
+Fig S1 Fire-origin soil communities are largely distinct from one stand development stage to the next.  See above for Fig 3.
+
+Fig S2 Fungal nestedness and specialization across stand development stages.  Use /scripts/FigS2_FigS3_Guild_turnover.R with /outfiles/tax_meta.csv and /infiles/FungalTraits_RhizomorphEricoidFireAnnotations.csv to create /outfiles/NODF_by_group.csv, /outfiles/FigS2_nestedness_specialization.pdf and /outfiles/FigS3_nestednessPlots_by_groups.pdf .
+
+Fig S3 Nestedness patterns vary across major fungal functional and taxonomic groups.  See above for Fig S2.
+
+Fig S4 The diversity and frequency of fire-associated fungal species is highest from fire-origin sites at the establishment stage.  Use /scripts/FigS4_TableS1_fireFungi.R with /outfiles/tax_meta.csv and UNITEv8.2_v2_mytaxon.txt with /infiles/FireFungi.csv to create /outfiles/FigS4_Firefungi_DevStage.pdf and /outfiles/TableS1_firefungi.csv .
+
+Fig S5 Frequency of bacterial genera that may be associated with fire-origin sites. 
+
 Fig S6 Frequency of insect genera that may be associated with fire-origin sites.  
 Fig S7 Rarefaction curves plateau indicating sequencing depth was sufficient for each amplicon.  
 
