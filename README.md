@@ -29,22 +29,39 @@ CSV file of terrestrial arthropod functional feeding guilds (/infiles/EPA.csv, /
 ## Infiles
 
 16S_results.csv  
+
 16S_trainset18_db_taxid.txt  
+
 BE_results.csv  
+
 CO1_v4.0.1_mytaxon.txt  
+
 EPA.csv  
+
 F230_results.csv  
+
 FireBacteria.csv  
+
 FireFungi.csv  
+
 FireInsects.csv  
+
 func_table_ammended_Puri.tsv  
+
 FungalTraits_RhizomorphEricoidFireAnnotations.csv  
+
 ITS_results.csv  
+
 metadata.csv  
+
 Moog.csv  
+
 Tachet.csv  
+
 UNITEv8.2_v2_mytaxon.txt  
+
 veg.csv  
+
 
 ## R Scripts
 
