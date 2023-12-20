@@ -52,12 +52,13 @@ Fig S3 Nestedness patterns vary across major fungal functional and taxonomic gro
 
 Fig S4 The diversity and frequency of fire-associated fungal species is highest from fire-origin sites at the establishment stage.  Use /scripts/FigS4_TableS1_fireFungi.R with /outfiles/tax_meta.csv and UNITEv8.2_v2_mytaxon.txt with /infiles/FireFungi.csv to create /outfiles/FigS4_Firefungi_DevStage.pdf and /outfiles/TableS1_firefungi.csv .
 
-Fig S5 Frequency of bacterial genera that may be associated with fire-origin sites. 
+Fig S5 Frequency of bacterial genera that may be associated with fire-origin sites.  Use /scripts/FigS5_fireBacteria.R with /outfiles/tax_meta.csv , /infiles/FireBacteria.csv and /infiles/16S_trainset18_db_taxid.txt to create FigS5_FireBacteria_DevStage.pdf .
 
-Fig S6 Frequency of insect genera that may be associated with fire-origin sites.  
-Fig S7 Rarefaction curves plateau indicating sequencing depth was sufficient for each amplicon.  
+Fig S6 Frequency of insect genera that may be associated with fire-origin sites.  Use /scripts/FigS6_fireInsects.R with /outfiles/tax_meta.csv , /infiles/FireInsects.csv and /infiles/CO1_v4.0.1_mytaxon.txt to create /outfiles/FigS6_FireInsects_DevStage.pdf .
 
-Table S2 Stand development stage bioindicators from fire-origin sites.
+Fig S7 Rarefaction curves plateau indicating sequencing depth was sufficient for each amplicon.  Use /scripts/FigS7_Rarefaction_2023-02-22.R with /outfiles/tax_meta.csv to create /outfiles/FigS7_rarefaction_amplicon/df .
+
+Table S2 Stand development stage bioindicators from fire-origin sites.  Use /scripts/Q3_IndicVal_2022-03-28.R with /outfiles/tax_meta.csv to create /outfiles/TableS2_devstage_bioindicatorTaxa_fire.csv .
 
 
 ## References
