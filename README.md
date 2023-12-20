@@ -2,6 +2,10 @@
 
 This repository contains supplementary digital resources, scripts, and files used in the paper Porter et al. 2023 "All boreal forest successional stages needed to maintain the full suite of biodiversity, community composition, and function following wildfire." Scientific Reports, 13: 7978.
 
+## How to cite
+
+Porter, T.M., Smenderovac, E., Morris, D. et al. All boreal forest successional stages needed to maintain the full suite of soil biodiversity, community composition, and function following wildfire. Sci Rep 13, 7978 (2023). https://doi.org/10.1038/s41598-023-30732-7
+
 ## Digital Resources
 
 We used some key references from the literature to produce lists of fire-associated organisms and ecological traits that can be easily imported into R for analysis.  
